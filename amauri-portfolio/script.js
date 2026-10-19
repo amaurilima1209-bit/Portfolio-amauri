@@ -4,8 +4,8 @@
 // ============================================================
 const CONFIG = {
   github: "https://github.com/",       // Ex.: "https://github.com/seu-usuario"
-  linkedin: "https://www.linkedin.com/", // Ex.: "https://www.linkedin.com/in/seu-perfil/"
-  email: "" // Ex.: "amauri@email.com"
+  linkedin: "https://www.linkedin.com/", // Ex.: "www.linkedin.com/in/amauri-de-aquino-467a7a3a9"
+  email: "" // Ex.: "amaurilima1209@gmail.com"
 };
 
 document.addEventListener("DOMContentLoaded", () => {
