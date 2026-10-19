@@ -25,8 +25,8 @@ Abra `script.js` e edite o objeto `CONFIG`:
 ```js
 const CONFIG = {
   github: "https://github.com/seu-usuario",
-  linkedin: "https://www.linkedin.com/in/seu-perfil/",
-  email: "seu-email@exemplo.com"
+  linkedin: "www.linkedin.com/in/amauri-de-aquino-467a7a3a9",
+  email: "Amaurilima1209@gmail.com"
 };
 ```
 
